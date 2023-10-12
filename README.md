@@ -17,9 +17,9 @@ Este é um projecto feito com intuito de consumir uma api de filmes com javascri
 
 Para a elaboração foi utilizado:
 
- - Javascript
- - css
- - html
+ - Javascript;
+ - css;
+ - html;
 
 ## Por favor deixe uma 🌟
 
